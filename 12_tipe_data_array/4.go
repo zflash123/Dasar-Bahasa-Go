@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main(){
-	var nilai = [3]int{
+	var nilai = []int{
 		91,
 		95,
 		82,
